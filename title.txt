@@ -1,2 +1,2 @@
 title one
-ittle two
+title two
